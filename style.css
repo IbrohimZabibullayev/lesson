@@ -57,8 +57,3 @@ body {
     opacity: 0;
     transition: 0.5s;
 }
-
-.container .content:before,
-.container .content:after {
-    opacity: ;
-}
